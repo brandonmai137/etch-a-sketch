@@ -1,7 +1,7 @@
 {
   "name": "etch-a-sketch",
   "version": "0.1.0",
-  "homepage": "https://brandonmai137.github.io/rock-paper-scissors",
+  "homepage": "https://brandonmai137.github.io/etch-a-sketch",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.0",
