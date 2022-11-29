@@ -5,9 +5,7 @@ function Footer() {
     return (
         <div className="footer">
             <p>
-                Copyright ©
-                {(new Date().getFullYear())}
-                <> brandonmai137 </>
+                <> Made by brandonmai137 </>
                 <a href="https://github.com/brandonmai137"><FontAwesomeIcon icon={faGithub}></FontAwesomeIcon></a>
             </p>
         </div>
